@@ -7,3 +7,4 @@ Requests==2.32.3
 selenium==4.28.1
 st_theme==1.2.3
 streamlit==1.41.1
+chromium-browser
