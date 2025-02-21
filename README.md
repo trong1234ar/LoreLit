@@ -1,7 +1,4 @@
 # LoreLit – AI-Powered IELTS Reading Practice
-![LoreLit Workflow](media/flow.png)
-![Video Link](media/demo_lorelit.mp4)
-
 ---
 
 ## 📖 Introduction  
@@ -12,7 +9,7 @@ making the learning process more engaging and effective.
 This project integrates **scraping and AI-powered question generation**, ensuring high-quality,  
 IELTS-style reading tasks tailored to user preferences.
 
-🔹 **Live Demo:** [Video Link](path/to/your/video.mp4)  
+🔹 **Live Demo:** 
 
 ---
 
@@ -34,5 +31,7 @@ LoreLit is designed to:
 - Implements **rule-based logic and structured prompts** to ensure generated questions align with IELTS standards.  
 - Uses **LangGraph** to structure a **workflow with interconnected nodes**: User Input -> Retrieve Data -> Iterative(Generation & Evaluation)
 - If a question **does not meet quality standards**, it is **regenerated** before being returned to the user.  
+
+![LoreLit Workflow](media/flow.png)
 
 
