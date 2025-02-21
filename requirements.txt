@@ -4,6 +4,8 @@ langchain_google_genai==2.0.9
 pandas==2.2.3
 python-dotenv==1.0.1
 Requests==2.32.3
-selenium==4.28.1
 st_theme==1.2.3
 streamlit==1.41.1
+selenium==4.28.1
+chromium
+chromedriver
