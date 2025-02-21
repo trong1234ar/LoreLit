@@ -8,6 +8,8 @@ This project integrates **scraping and AI-powered question generation**, ensurin
 
 🔹 **Live Demo:** 
 
+https://github.com/user-attachments/assets/00a8352a-d856-470c-8567-1b3597f906ea
+
 ---
 
 ## 🎯 Purpose  
@@ -15,6 +17,9 @@ LoreLit is designed to:
 ✅ **Make IELTS reading more engaging** by generating passages on topics users enjoy.  
 ✅ **Ensure high-quality question generation** using rule-based logic and structured prompts.  
 ✅ **Automate the process** with a structured workflow, reducing manual effort in question creation.  
+
+
+
 
 ---
 
