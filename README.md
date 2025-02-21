@@ -2,12 +2,9 @@
 ---
 
 ## 📖 Introduction  
-Learning IELTS reading can be **boring and discouraging**, especially when dealing with **long, unengaging passages**.  
-**LoreLit** solves this problem by allowing users to **learn IELTS reading through topics they enjoy**,  
-making the learning process more engaging and effective.
+Learning IELTS reading can be **boring and discouraging**, especially when dealing with **long, unengaging passages**. **LoreLit** solves this problem by allowing users to **learn IELTS reading through topics they enjoy**, making the learning process more engaging and effective.
 
-This project integrates **scraping and AI-powered question generation**, ensuring high-quality,  
-IELTS-style reading tasks tailored to user preferences.
+This project integrates **scraping and AI-powered question generation**, ensuring high-quality, IELTS-style reading tasks tailored to user preferences.
 
 🔹 **Live Demo:** 
 
