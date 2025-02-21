@@ -6,9 +6,11 @@ Learning IELTS reading can be **boring and discouraging**, especially when deali
 
 This project integrates **scraping and AI-powered question generation**, ensuring high-quality, IELTS-style reading tasks tailored to user preferences.
 
+**📌 Note:** *Currently, the available topics are limited to League of Legends champions. More topics will be added in the future.*  
+
 🔹 **Live Demo:** 
 
-https://github.com/user-attachments/assets/ddfdb254-bb51-45bf-b0d1-7176f8950115
+https://github.com/user-attachments/assets/d9c48506-6851-43e2-8ff1-37806c424656
 
 ---
 
