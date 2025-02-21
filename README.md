@@ -8,7 +8,7 @@ This project integrates **scraping and AI-powered question generation**, ensurin
 
 🔹 **Live Demo:** 
 
-https://github.com/user-attachments/assets/00a8352a-d856-470c-8567-1b3597f906ea
+https://github.com/user-attachments/assets/ddfdb254-bb51-45bf-b0d1-7176f8950115
 
 ---
 
